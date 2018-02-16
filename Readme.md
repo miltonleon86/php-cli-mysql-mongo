@@ -1,0 +1,2 @@
+- Use this image to run php scripts.
+- MySql and Mongo clients are include.
